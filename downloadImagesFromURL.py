@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
-from os.path  import basename, join
+from os.path  import basename
 import requests
 
 base_url = "https://www.combatcamera.forces.gc.ca/site/"
